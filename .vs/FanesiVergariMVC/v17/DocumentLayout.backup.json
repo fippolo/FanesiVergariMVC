@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\fanesivergarimvc\\viewmodels\\testtestactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|solutionrelative:fanesivergarimvc\\viewmodels\\testtestactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\fanesivergarimvc\\views\\test\\testaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|solutionrelative:fanesivergarimvc\\views\\test\\testaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\fanesivergarimvc\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|solutionrelative:fanesivergarimvc\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\fanesivergarimvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|solutionrelative:fanesivergarimvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\fanesivergarimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|solutionrelative:fanesivergarimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\fanesivergarimvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|solutionrelative:fanesivergarimvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestAction.cshtml",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Views\\Test\\TestAction.cshtml",
+              "RelativeDocumentMoniker": "FanesiVergariMVC\\Views\\Test\\TestAction.cshtml",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Views\\Test\\TestAction.cshtml",
+              "RelativeToolTip": "FanesiVergariMVC\\Views\\Test\\TestAction.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:09:48.762Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FanesiVergariMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FanesiVergariMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:45:13.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestTestActionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\ViewModels\\TestTestActionViewModel.cs",
+              "RelativeDocumentMoniker": "FanesiVergariMVC\\ViewModels\\TestTestActionViewModel.cs",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\ViewModels\\TestTestActionViewModel.cs",
+              "RelativeToolTip": "FanesiVergariMVC\\ViewModels\\TestTestActionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:39:35.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "FanesiVergariMVC\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Controllers\\TestController.cs",
+              "RelativeToolTip": "FanesiVergariMVC\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:07:46.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FanesiVergariMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FanesiVergariMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:14:26.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FanesiVergariMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FanesiVergariMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:05:31.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
