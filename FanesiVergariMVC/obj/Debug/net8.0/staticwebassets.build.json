@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "fCsL9gmTo8lDYVax0ziGrKRBptvWI8euLxSvA8k19E8=",
+  "Hash": "b1fzJjTTMte+mPuf+tQMvXfrYuggfITZI6BS+97F6nY=",
   "Source": "FanesiVergariMVC",
   "BasePath": "_content/FanesiVergariMVC",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\Soap_FanesiVergari\\Soap_FanesiVergari.csproj",
+      "Version": 2,
+      "Source": "Soap_FanesiVergari",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "FanesiVergariMVC\\wwwroot",

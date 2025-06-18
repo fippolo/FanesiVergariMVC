@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FanesiVergariMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98f096dc6f509729bc551cdc0c852e132236f321")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcbc621c4b0bc53d6e1425e1e15742070e6f8ccc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FanesiVergariMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FanesiVergariMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

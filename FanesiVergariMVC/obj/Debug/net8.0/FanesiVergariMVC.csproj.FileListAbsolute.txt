@@ -73,3 +73,17 @@ C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\Fan
 C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\obj\Debug\net8.0\FanesiVergariMVC.csproj.AssemblyReference.cache
 C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\obj\Debug\net8.0\FanesiVergariMVC.sourcelink.json
 C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\obj\Debug\net8.0\FanesiVe.422ED29E.Up2Date
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\Soap_FanesiVergari.deps.json
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\Soap_FanesiVergari.runtimeconfig.json
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\Soap_FanesiVergari.staticwebassets.endpoints.json
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\Soap_FanesiVergari.exe
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\SoapCore.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\Soap_FanesiVergari.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\bin\Debug\net8.0\Soap_FanesiVergari.pdb
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergariMVC\obj\Debug\net8.0\FanesiVergariMVC.MvcApplicationPartsAssemblyInfo.cs

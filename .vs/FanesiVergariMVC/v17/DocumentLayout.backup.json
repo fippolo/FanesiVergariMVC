@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\fanesivergarimvc\\controllers\\autoveloxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|solutionrelative:fanesivergarimvc\\controllers\\autoveloxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\fanesivergarimvc\\viewmodels\\autoveloxitaliamostraautovelox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}|FanesiVergariMVC\\FanesiVergariMVC.csproj|solutionrelative:fanesivergarimvc\\viewmodels\\autoveloxitaliamostraautovelox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83254BDD-24BD-4CD3-AD94-9FBCDB846141}|Soap_FanesiVergari\\Soap_FanesiVergari.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\soap_fanesivergari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83254BDD-24BD-4CD3-AD94-9FBCDB846141}|Soap_FanesiVergari\\Soap_FanesiVergari.csproj|solutionrelative:soap_fanesivergari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83254BDD-24BD-4CD3-AD94-9FBCDB846141}|Soap_FanesiVergari\\Soap_FanesiVergari.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\soap_fanesivergari\\wssoap\\iservizioautoveloxitalia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83254BDD-24BD-4CD3-AD94-9FBCDB846141}|Soap_FanesiVergari\\Soap_FanesiVergari.csproj|solutionrelative:soap_fanesivergari\\wssoap\\iservizioautoveloxitalia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83254BDD-24BD-4CD3-AD94-9FBCDB846141}|Soap_FanesiVergari\\Soap_FanesiVergari.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\soap_fanesivergari\\wssoap\\servizioautoveloxitalia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83254BDD-24BD-4CD3-AD94-9FBCDB846141}|Soap_FanesiVergari\\Soap_FanesiVergari.csproj|solutionrelative:soap_fanesivergari\\wssoap\\servizioautoveloxitalia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83254BDD-24BD-4CD3-AD94-9FBCDB846141}|Soap_FanesiVergari\\Soap_FanesiVergari.csproj|c:\\users\\nan\\source\\repos\\fanesivergarimvc\\soap_fanesivergari\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83254BDD-24BD-4CD3-AD94-9FBCDB846141}|Soap_FanesiVergari\\Soap_FanesiVergari.csproj|solutionrelative:soap_fanesivergari\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +34,89 @@
       "DocumentGroups": [
         {
           "DockedHeight": 192,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "IServizioAutoveloxItalia.cs",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\Soap_FanesiVergari\\WSSoap\\IServizioAutoveloxItalia.cs",
+              "RelativeDocumentMoniker": "Soap_FanesiVergari\\WSSoap\\IServizioAutoveloxItalia.cs",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\Soap_FanesiVergari\\WSSoap\\IServizioAutoveloxItalia.cs",
+              "RelativeToolTip": "Soap_FanesiVergari\\WSSoap\\IServizioAutoveloxItalia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:19:22.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\Soap_FanesiVergari\\appsettings.json",
+              "RelativeDocumentMoniker": "Soap_FanesiVergari\\appsettings.json",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\Soap_FanesiVergari\\appsettings.json",
+              "RelativeToolTip": "Soap_FanesiVergari\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T17:19:20.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServizioAutoveloxItalia.cs",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\Soap_FanesiVergari\\WSSoap\\ServizioAutoveloxItalia.cs",
+              "RelativeDocumentMoniker": "Soap_FanesiVergari\\WSSoap\\ServizioAutoveloxItalia.cs",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\Soap_FanesiVergari\\WSSoap\\ServizioAutoveloxItalia.cs",
+              "RelativeToolTip": "Soap_FanesiVergari\\WSSoap\\ServizioAutoveloxItalia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:19:19.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\Soap_FanesiVergari\\Program.cs",
               "RelativeDocumentMoniker": "Soap_FanesiVergari\\Program.cs",
               "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\Soap_FanesiVergari\\Program.cs",
               "RelativeToolTip": "Soap_FanesiVergari\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:28:36.292Z",
+              "WhenOpened": "2025-06-18T17:19:11.862Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoveloxItaliaMostraAutovelox.cs",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\ViewModels\\AutoveloxItaliaMostraAutovelox.cs",
+              "RelativeDocumentMoniker": "FanesiVergariMVC\\ViewModels\\AutoveloxItaliaMostraAutovelox.cs",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\ViewModels\\AutoveloxItaliaMostraAutovelox.cs",
+              "RelativeToolTip": "FanesiVergariMVC\\ViewModels\\AutoveloxItaliaMostraAutovelox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:56:49.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoveloxController.cs",
+              "DocumentMoniker": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Controllers\\AutoveloxController.cs",
+              "RelativeDocumentMoniker": "FanesiVergariMVC\\Controllers\\AutoveloxController.cs",
+              "ToolTip": "C:\\Users\\NaN\\source\\repos\\FanesiVergariMVC\\FanesiVergariMVC\\Controllers\\AutoveloxController.cs",
+              "RelativeToolTip": "FanesiVergariMVC\\Controllers\\AutoveloxController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv3kAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:52:19.057Z",
+              "EditorCaption": ""
             }
           ]
         },
