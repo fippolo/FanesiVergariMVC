@@ -3,6 +3,19 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+// Abilita logging verboso per SOAP
+builder.Logging.AddConsole();
+builder.Logging.SetMinimumLevel(LogLevel.Debug);
+
+// WCF logging
+System.Diagnostics.Trace.Listeners.Add(new System.Diagnostics.ConsoleTraceListener());
+
+// Antiforgery token
+builder.Services.AddAntiforgery(options =>
+{
+    options.HeaderName = "RequestVerificationToken";
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -17,8 +30,13 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAntiforgery();
 app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "debug",
+    pattern: "debug",
+    defaults: new { controller = "Autovelox", action = "Debug" });
 
 app.MapControllerRoute(
     name: "autovelox",
