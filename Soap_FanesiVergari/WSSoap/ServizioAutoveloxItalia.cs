@@ -1,4 +1,5 @@
 ﻿using FanesiVergari.Modelli;
+using Newtonsoft.Json;
 using System.ServiceModel;
 
 namespace Soap_FanesiVergari.WSSoap

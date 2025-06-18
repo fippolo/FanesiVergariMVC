@@ -7,7 +7,7 @@ namespace FanesiVergariMVC.Controllers
 {
     public class AutoveloxController : Controller
     {
-        private readonly string _soapServiceUrl = "http://localhost:5000/ServizioAutoveloxItalia.wsdl"; // Modifica con l'URL del tuo servizio SOAP
+        private readonly string _soapServiceUrl = "https://localhost:7295/ServizioAutoveloxItalia.wsdl"; // Modifica con l'URL del tuo servizio SOAP
 
         public async Task<IActionResult> MostraAutovelox(string regione = "", string ricerca = "")
         {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FanesiVergari.Modelli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cad893fd780dfb846508bcf1d4a1977911e60a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98f096dc6f509729bc551cdc0c852e132236f321")]
 [assembly: System.Reflection.AssemblyProductAttribute("FanesiVergari.Modelli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FanesiVergari.Modelli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

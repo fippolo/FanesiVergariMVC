@@ -1,5 +1,7 @@
-using Soap_FanesiVergari.WSSoap;
+﻿using Soap_FanesiVergari.WSSoap;
 using SoapCore;
+using System.Text;
+
 
 namespace Soap_FanesiVergari
 {
@@ -13,28 +15,20 @@ namespace Soap_FanesiVergari
             builder.Services.AddSoapCore();
             builder.Services.AddScoped<IServizioAutoveloxItalia, ServizioAutoveloxItalia>();
 
-            builder.Services.AddControllers();
-
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            
-
             app.UseRouting();
-
-            app.UseAuthorization();
-            
-
-            // non utiliaziamo endpoint per codice Warning ASP0014
-            //  app.UseEndpoints(endpoints =>
-            //  {
-            //      endpoints.UseSoapEndpoint<IServizioAutoveloxItalia>("/ServizioAutoveloxItalia.wsdl", new SoapEncoderOptions(), SoapSerializer.XmlSerializer);
-            //  });
-
-            app.MapGet("/", () => "ServizioAutoveloxItalia.wsdl");
-
-
-            app.MapControllers();
+            var encoderOptions = new SoapEncoderOptions
+            {
+                MessageVersion = System.ServiceModel.Channels.MessageVersion.Soap12WSAddressing10, // SOAP 1.2 versione codificatore corretto per envelope
+                WriteEncoding = Encoding.UTF8,
+                ReaderQuotas = System.Xml.XmlDictionaryReaderQuotas.Max
+            };
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.UseSoapEndpoint<IServizioAutoveloxItalia>("/ServizioAutoveloxItalia.wsdl", encoderOptions, SoapSerializer.XmlSerializer);
+            });
 
             app.Run();
         }
