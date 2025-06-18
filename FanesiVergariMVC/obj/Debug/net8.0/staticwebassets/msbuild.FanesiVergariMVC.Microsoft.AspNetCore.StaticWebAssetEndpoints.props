@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\FanesiVergariMVC.113k3yzx7d.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"113k3yzx7d"},{"Name":"integrity","Value":"sha256-VWdFrxr4U1g/\u002BM\u002BmW3\u002BpdwnurbBfz2TkA9oS0OqfYW0="},{"Name":"label","Value":"_content/FanesiVergariMVC/FanesiVergariMVC.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VWdFrxr4U1g/\u002BM\u002BmW3\u002BpdwnurbBfz2TkA9oS0OqfYW0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Jun 2025 16:11:00 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VWdFrxr4U1g/\u002BM\u002BmW3\u002BpdwnurbBfz2TkA9oS0OqfYW0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 13:20:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FanesiVergariMVC/FanesiVergariMVC.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\FanesiVergariMVC.113k3yzx7d.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VWdFrxr4U1g/\u002BM\u002BmW3\u002BpdwnurbBfz2TkA9oS0OqfYW0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VWdFrxr4U1g/\u002BM\u002BmW3\u002BpdwnurbBfz2TkA9oS0OqfYW0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Jun 2025 16:11:00 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VWdFrxr4U1g/\u002BM\u002BmW3\u002BpdwnurbBfz2TkA9oS0OqfYW0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 13:20:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FanesiVergariMVC/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

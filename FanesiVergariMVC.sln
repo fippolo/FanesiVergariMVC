@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanesiVergariMVC", "FanesiVergariMVC\FanesiVergariMVC.csproj", "{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soap_FanesiVergari", "Soap_FanesiVergari\Soap_FanesiVergari.csproj", "{83254BDD-24BD-4CD3-AD94-9FBCDB846141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanesiVergari.Modelli", "FanesiVergari.Modelli\FanesiVergari.Modelli.csproj", "{07B25494-8802-4DA8-8593-E759F3A747C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73D0F2CE-7AAF-4052-BBCE-99C06AC0E162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83254BDD-24BD-4CD3-AD94-9FBCDB846141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83254BDD-24BD-4CD3-AD94-9FBCDB846141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83254BDD-24BD-4CD3-AD94-9FBCDB846141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83254BDD-24BD-4CD3-AD94-9FBCDB846141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B25494-8802-4DA8-8593-E759F3A747C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B25494-8802-4DA8-8593-E759F3A747C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B25494-8802-4DA8-8593-E759F3A747C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B25494-8802-4DA8-8593-E759F3A747C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\bin\Debug\net8.0\FanesiVergari.Modelli.deps.json
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\bin\Debug\net8.0\FanesiVergari.Modelli.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\bin\Debug\net8.0\FanesiVergari.Modelli.pdb
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\obj\Debug\net8.0\FanesiVergari.Modelli.csproj.AssemblyReference.cache
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\obj\Debug\net8.0\FanesiVergari.Modelli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\obj\Debug\net8.0\FanesiVergari.Modelli.AssemblyInfoInputs.cache
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\obj\Debug\net8.0\FanesiVergari.Modelli.AssemblyInfo.cs
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\obj\Debug\net8.0\FanesiVergari.Modelli.csproj.CoreCompileInputs.cache
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\obj\Debug\net8.0\FanesiVergari.Modelli.sourcelink.json
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\obj\Debug\net8.0\FanesiVergari.Modelli.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\obj\Debug\net8.0\refint\FanesiVergari.Modelli.dll
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\obj\Debug\net8.0\FanesiVergari.Modelli.pdb
+C:\Users\NaN\source\repos\FanesiVergariMVC\FanesiVergari.Modelli\obj\Debug\net8.0\ref\FanesiVergari.Modelli.dll

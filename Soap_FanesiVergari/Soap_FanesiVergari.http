@@ -1,0 +1,6 @@
+@Soap_FanesiVergari_HostAddress = http://localhost:5231
+
+GET {{Soap_FanesiVergari_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
