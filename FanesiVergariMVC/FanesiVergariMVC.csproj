@@ -4,9 +4,16 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	<NoWarn>$(NoWarn);ASP0014</NoWarn>
+	<NoWarn>$(NoWarn);CS8618</NoWarn>
+	<NoWarn>$(NoWarn);CS8600</NoWarn>
+	<NoWarn>$(NoWarn);CS8604</NoWarn>
+    <UserSecretsId>c480b2ac-e016-4f79-9954-c715f4a42270</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
     <PackageReference Include="System.ServiceModel.Http" Version="8.1.2" />
     <PackageReference Include="System.ServiceModel.Primitives" Version="8.1.2" />
     <PackageReference Include="SoapCore" Version="1.1.0.51" />
@@ -15,6 +22,12 @@
   <ItemGroup>
     <ProjectReference Include="..\FanesiVergari.Modelli\FanesiVergari.Modelli.csproj" />
     <ProjectReference Include="..\Soap_FanesiVergari\Soap_FanesiVergari.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="..\.dockerignore">
+      <DependentUpon>Dockerfile</DependentUpon>
+    </None>
   </ItemGroup>
 
 </Project>

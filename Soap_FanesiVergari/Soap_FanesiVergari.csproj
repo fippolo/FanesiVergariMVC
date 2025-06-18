@@ -4,7 +4,12 @@
 		<TargetFramework>net8.0</TargetFramework>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
+		<NoWarn>$(NoWarn);ASP0014</NoWarn>
+		<NoWarn>$(NoWarn);CS8618</NoWarn>
+		<NoWarn>$(NoWarn);CS8600</NoWarn>
+		<NoWarn>$(NoWarn);CS8604</NoWarn>
 		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+		<UserSecretsId>7b5a4f64-72c2-45dd-836c-571c47873195</UserSecretsId>
 	</PropertyGroup>
 
 	<ItemGroup>
