@@ -1,0 +1,11 @@
+﻿################################################################################
+# Il file gitignore è stato creato automaticamente da Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FanesiVergariMVC
+/FanesiVergari.Modelli/obj
+/FanesiVergariMVC/obj
+/Soap_FanesiVergari/obj
+/FanesiVergari.Modelli/bin/Debug/net8.0
+/FanesiVergariMVC/bin/Debug/net8.0
+/Soap_FanesiVergari/bin/Debug/net8.0
