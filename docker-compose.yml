@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  fanesi-soap:
+    build:
+      context: .
+      dockerfile: ./Soap_FanesiVergari/Dockerfile
+    container_name: fanesi-soap
+    ports:
+      - "5000:8080"
+    networks:
+      - fanesi-network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:8080
+    restart: unless-stopped
+
+  fanesi-mvc:
+    build:
+      context: .
+      dockerfile: ./FanesiVergariMVC/Dockerfile
+    container_name: fanesi-mvc
+    ports:
+      - "80:8080"
+    networks:
+      - fanesi-network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:8080
+      # Configure the SOAP service endpoint for the MVC app
+      - SOAP_SERVICE_URL=http://fanesi-soap:8080
+    depends_on:
+      - fanesi-soap
+    restart: unless-stopped
+
+networks:
+  fanesi-network:
+    driver: bridge

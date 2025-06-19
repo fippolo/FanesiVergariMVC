@@ -19,6 +19,11 @@ namespace Soap_FanesiVergari
 
             // Configure the HTTP request pipeline.
             app.UseRouting();
+
+            // Redirect root to the WSDL endpoint
+            app.MapGet("/", () => Results.Redirect("/ServizioAutoveloxItalia.wsdl"));
+
+            
             var encoderOptions = new SoapEncoderOptions
             {
                 MessageVersion = System.ServiceModel.Channels.MessageVersion.Soap12WSAddressing10, // SOAP 1.2 versione codificatore corretto per envelope

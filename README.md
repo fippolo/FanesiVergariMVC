@@ -1,8 +1,10 @@
-# how to build
+# how to build and run
 ```
-docker build -f .\Dockerfile -t fanesivergamvc .
+docker-compose up --build -d
 ```
-# how to run
+# how to stop
 ```
-docker run -d -p 80:8080 --name fanesi-mvc fanesivergamvc
+docker-compose down
 ```
+
+# all Hail the docker god
