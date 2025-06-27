@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "El
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest_Fanesi", "Rest_Fanesi\Rest_Fanesi.csproj", "{F9A5FC0B-4E21-4410-A74D-8BDF20288D58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{07B25494-8802-4DA8-8593-E759F3A747C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07B25494-8802-4DA8-8593-E759F3A747C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07B25494-8802-4DA8-8593-E759F3A747C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A5FC0B-4E21-4410-A74D-8BDF20288D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A5FC0B-4E21-4410-A74D-8BDF20288D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A5FC0B-4E21-4410-A74D-8BDF20288D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A5FC0B-4E21-4410-A74D-8BDF20288D58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
